@@ -1,23 +1,14 @@
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5191c1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9fb9c2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Mariana+Sant'anna;Tenho+17+anos;Estudando+Desenvolvimento+de+Sistemas;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9fb9c2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Mariana+Sant'anna;tenho+17+anos;Estou+fazendo+técnologo+em+ADS;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marianafloriano1&bg_color=0d1117&color=5191c1&line=5191c1&point=5191c1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=marianafloriano1&show_icons=true&color=9fb9c2" alt="marianafloriano1" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marianafloriano1&show_icons=true&count_private=true&hide_border=true&title_color=5191c1&icon_color=5191c1&text_color=0d1117&bg_color=0d1117" alt="Mariana Sant'Anna github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianafloriano1&layout=compact&hide_border=true&title_color=0d1117&text_color=5191c1&bg_color=0d1117" />
 </div>
-
-<img src="https://raw.githubusercontent.com/marianafloriano1/marianafloriano1/output/snake.svg" alt="Snake animation" />
-
 
 
 ### Estudando no momento:)
