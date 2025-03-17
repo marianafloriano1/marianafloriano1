@@ -5,7 +5,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marianafloriano1&show_icons=true&count_private=true&hide_border=true&title_color=5191c1&icon_color=5191c1&text_color=0d1117&bg_color=0d1117" alt="Mariana Sant'Anna github stats" /> 
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=marianafloriano1&show_icons=true&theme=gotham" alt="marianafloriano1" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianafloriano1&layout=compact&hide_border=true&title_color=0d1117&text_color=5191c1&bg_color=0d1117" />
 </div>
 
