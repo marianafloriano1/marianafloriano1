@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9fb9c2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Mariana+Sant'anna;tenho+17+anos;Estou+fazendo+técnologo+em+ADS;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marianafloriano1&bg_color=0d1117&color=5191c1&line=5191c1&point=5191c1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <img src="https://raw.githubusercontent.com/marianafloriano1/marianafloriano1/output/snake.svg" alt="Snake animation" />
 
 
