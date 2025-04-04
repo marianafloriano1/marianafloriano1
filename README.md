@@ -13,9 +13,9 @@
 <br>
 
 <div align="center">  
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=marianafloriano1&show_icons=true&count_private=true&bg_color=00000000" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=marianafloriano1&show_icons=true&count_private=true&bg_color=00000000&text_color=5191c1" />
   <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianafloriano1&layout=compact&count_private=true&bg_color=00000000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianafloriano1&layout=compact&count_private=true&bg_color=00000000&text_color=5191c1" />
 
 </div>
 
@@ -51,11 +51,6 @@
 <br>
 <br>
 <br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5191c1&size=17&width=1000&lines=Contato:)](https://git.io/typing-svg)
-
- <a href="linkedin.com/in/mariana-floriano-de-sant-anna-60598524b"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="marianafloriano24@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
 
 
 <br>
