@@ -1,21 +1,8 @@
+<div align="center">
+  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:30001a,100:b60854&text=Mariana%20Sant'Anna&fontSize=25&fontFamily=Segoe%20Script&fontColor=ffffff&animation=fadeIn&fontAlignY=50&fontAlign=70"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5191c1&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5191c1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Mariana+Sant'anna;Tenho+18+anos;Estudando+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
-
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<div align="center">  
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=marianafloriano1&show_icons=true&count_private=true&bg_color=00000000&text_color=5191c1" />
-  <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianafloriano1&layout=compact&count_private=true&bg_color=00000000&text_color=5191c1" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=18&duration=4000&pause=1000&color=ffff&center=true&vCenter=true&random=false&width=1000&lines=;Seja+bem+vindo%28a%29;Conheça+meus+projetos⭐)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,49 +10,81 @@
 <br>
 <br>
 
+
+## About Me
+
+```javascript
+const Mari = {
+
+ name: "Mariana Sant'Anna",
+
+
+ location: "São Paulo, Brasil",
+
+ stack: {
+    frontend: [
+      "JavaScript",
+      "TypeScript",
+      "React Native",
+      "Angular",
+      "HTML",
+      "CSS"
+    ],
+
+    backend: [
+      "Java",
+      "Node.js",
+      "PHP",
+      "C++"
+    ],
+
+    database: [
+      "MySQL",
+      "Firebase"
+    ]
+ }
+
+}
+```
+<br>
+
+
+## Skills Tech 
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,docker,arduino,aws,linux,bootstrap,windows&perline=5"/>
+
+</div>
+<br>
+
+
+## Projects
+<div align="center">
+
+| Project | Description | Repository | 
+|---|---|---|
+| Sabor Na Mão | Recipe App | https://github.com/marianafloriano1/Sabor-Na-Mao |
+| Entre Universos | Book Website | https://github.com/marianafloriano1/Entre_Universos |
+| Espera Zero | Queue Count | https://github.com/marianafloriano1/Espera_Zero |
+| Feitiço da Cuca | Folclore Brazilian Game | https://github.com/marianafloriano1/FeiticoDaCuca |
+
 <img src="https://raw.githubusercontent.com/marianafloriano1/marianafloriano1/output/snake.svg" alt="Snake animation" />
+  
+</div>
+
+<br> 
+
+## Social Media
+
+<div align="center">
+
+<a href="mailto:marianafloriano24@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=b60854"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/marianafsantanna"><img src="https://img.shields.io/badge/LinkedIn-b60854?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=marianafloriano1&style=for-the-badge&color=b60854"/>
+
+</div>
 
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:30001a,100:b60854"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5191c1&size=17&width=1000&lines=Minhas+Habilidades+:%29)](https://git.io/typing-svg)
-
-<img height="30" width="30" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img height="30" width="30" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img height="30" width="30" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img height="30" width="30" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-<img height="30" width="30" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img height="30" width="30" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img height="30" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5191c1&size=17&width=1000&lines=Aprendendo+:%29)](https://git.io/typing-svg)
-
-<img height="30" width="30" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img height="30" width="30" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-<img height="30" width="30" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-<img height="30" width="30" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img height="30" width="30" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-
-<br>
-<br>
-<br>
-
-
-<br>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5191c1&size=17&width=1000&lines=Projetos:)](https://git.io/typing-svg)
-
-
-<a href="https://github.com/marianafloriano1/SaborNaMao">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marianafloriano1&repo=SaborNaMao&show_icons=true&line_height=27&title_color=5191c1&text_color=5191c1&icon_color=5191c1&bg_color=22272e" alt="DA-RNN" />
-</a>
-
-<a href="https://github.com/marianafloriano1/Entre_Universos">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=marianafloriano1&repo=Entre_Universos&show_icons=true&line_height=27&title_color=5191c1&text_color=5191c1&icon_color=5191c1&bg_color=22272e" alt="crnn-pytorch" />
-</a>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5191c1&height=100&section=footer"/>
